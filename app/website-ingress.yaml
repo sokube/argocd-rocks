@@ -11,7 +11,7 @@ spec:
   rules:
   - http:
       paths:
-      - path: /app
+      - path: /app2
         backend:
           serviceName: website-service
           servicePort: 80

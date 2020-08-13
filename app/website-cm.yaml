@@ -20,8 +20,8 @@ data:
       <body>
         <div>
           <img height="400px" src="https://branding.cncf.io/img/projects/argo/icon/color/argo-icon-color.svg"></svg>
-          <h1>ArgoCD Rocks !</h1>
-          <p>Version 1.2</p>
+          <h1>ArgoCD Rocks Really!</h1>
+          <p>Version 2</p>
         </div>
       </body>
     </html>
